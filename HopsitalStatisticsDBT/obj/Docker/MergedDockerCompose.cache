@@ -1,0 +1,11 @@
+services:
+  hopsitalstatisticsdbt:
+    build:
+      context: C:\GitHub\DeskBoundTeamCore\HopsitalStatisticsDBT
+      dockerfile: HopsitalStatisticsDBT/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: hopsitalstatisticsdbt
+    ports:
+    - 80/tcp
+version: '3.0'

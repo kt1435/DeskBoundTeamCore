@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  hopsitalstatisticsdbt:
+    image: hopsitalstatisticsdbt
+    build:
+      context: .
+      dockerfile: HopsitalStatisticsDBT/Dockerfile

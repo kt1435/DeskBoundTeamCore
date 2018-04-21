@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/Server/sqlite3/storage.ide-wal
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/Server/sqlite3/storage.ide-shm
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/Server/sqlite3/storage.ide
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/Server/sqlite3/db.lock
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/Server/sqlite3
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15/.suo
+/HopsitalStatisticsDBT/.vs/HopsitalStatisticsDBT/v15
