@@ -1,0 +1,11 @@
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\bin\Debug\netcoreapp2.0\HopsitalStatisticsDBT.deps.json
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\bin\Debug\netcoreapp2.0\HopsitalStatisticsDBT.runtimeconfig.json
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\bin\Debug\netcoreapp2.0\HopsitalStatisticsDBT.runtimeconfig.dev.json
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\bin\Debug\netcoreapp2.0\HopsitalStatisticsDBT.dll
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\bin\Debug\netcoreapp2.0\HopsitalStatisticsDBT.pdb
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.csprojResolveAssemblyReference.cache
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.csproj.CoreCompileInputs.cache
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.AssemblyInfoInputs.cache
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.AssemblyInfo.cs
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.dll
+C:\Users\Khuong\Desktop\GitHub\HopsitalStatisticsDBT\HopsitalStatisticsDBT\obj\Debug\netcoreapp2.0\HopsitalStatisticsDBT.pdb

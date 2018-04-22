@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopsitalStatisticsDBT", "HopsitalStatisticsDBT\HopsitalStatisticsDBT.csproj", "{DCEC4C6E-7B06-45B4-8FC1-2935D1E3749F}"
-EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CB708AAD-8389-4D5B-9F7B-58F0B2B9E08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAnalyticsDBT", "..\HospitalAnalyticsDBT\HospitalAnalyticsDBT.csproj", "{0FC92146-24D8-442B-8546-F6AE4EF3636E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCEC4C6E-7B06-45B4-8FC1-2935D1E3749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCEC4C6E-7B06-45B4-8FC1-2935D1E3749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCEC4C6E-7B06-45B4-8FC1-2935D1E3749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCEC4C6E-7B06-45B4-8FC1-2935D1E3749F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB708AAD-8389-4D5B-9F7B-58F0B2B9E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CB708AAD-8389-4D5B-9F7B-58F0B2B9E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB708AAD-8389-4D5B-9F7B-58F0B2B9E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB708AAD-8389-4D5B-9F7B-58F0B2B9E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC92146-24D8-442B-8546-F6AE4EF3636E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC92146-24D8-442B-8546-F6AE4EF3636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC92146-24D8-442B-8546-F6AE4EF3636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC92146-24D8-442B-8546-F6AE4EF3636E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
