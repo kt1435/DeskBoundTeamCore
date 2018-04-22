@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HopsitalStatisticsDBT\HosiptalApi\HospitalApi.csproj" />
+    <ProjectReference Include="..\HopsitalStatisticsDBT\HosiptalApi\HosiptalApi.csproj" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">

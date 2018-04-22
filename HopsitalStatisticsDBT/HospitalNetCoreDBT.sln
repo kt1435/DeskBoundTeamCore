@@ -7,7 +7,7 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAnalyticsDBT", "..\HospitalAnalyticsDBT\HospitalAnalyticsDBT.csproj", "{0FC92146-24D8-442B-8546-F6AE4EF3636E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HosiptalApi", "HosiptalApi\HosiptalApi.csproj", "{48AEC410-4A5C-4563-8148-564C414C8B81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalApi", "HosiptalApi\HospitalApi.csproj", "{48AEC410-4A5C-4563-8148-564C414C8B81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

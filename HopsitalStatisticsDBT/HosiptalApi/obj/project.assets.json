@@ -12542,9 +12542,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khuong\\Desktop\\GitHub\\HopsitalStatisticsDBT\\HosiptalApi\\HosiptalApi.csproj",
-      "projectName": "HosiptalApi",
-      "projectPath": "C:\\Users\\Khuong\\Desktop\\GitHub\\HopsitalStatisticsDBT\\HosiptalApi\\HosiptalApi.csproj",
+      "projectUniqueName": "C:\\Users\\Khuong\\Desktop\\GitHub\\HopsitalStatisticsDBT\\HosiptalApi\\HospitalApi.csproj",
+      "projectName": "HospitalApi",
+      "projectPath": "C:\\Users\\Khuong\\Desktop\\GitHub\\HopsitalStatisticsDBT\\HosiptalApi\\HospitalApi.csproj",
       "packagesPath": "C:\\Users\\Khuong\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Khuong\\Desktop\\GitHub\\HopsitalStatisticsDBT\\HosiptalApi\\obj\\",
       "projectStyle": "PackageReference",
